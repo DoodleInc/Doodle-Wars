@@ -1,9 +1,9 @@
 # Welcome to Doodle Wars
 Doodle wars is a game based off of another game, but not in the way you'd expect.
-Doodle Wars orinally a game that tankerguy1917 (https://repl.it/@tankerguy1917), the creator of this game, would play with his frinds on paper. Now, he is attempting to adapt it into a game made in python with the help of FloCal35 (https://repl.it/@FloCal35), Funky (https://repl.it/@diffleysnumbero), IntelDS (https://repl.it/@IntelDS), IntellectualGuy (https://repl.it/@IntellectualGuy), and the repl.it community.
+Doodle Wars orinally a game that [tankerguy1917](https://repl.it/@tankerguy1917), the creator of this game, would play with his frinds on paper. Now, he is attempting to adapt it into a game made in python with the help of [FloCal35](https://repl.it/@FloCal35), [Funky](https://repl.it/@diffleysnumbero), [IntelDS](https://repl.it/@IntelDS), [IntellectualGuy](https://repl.it/@IntellectualGuy), and the repl.it community.
 
 # About
-Doodle Wars is a game  created by the DoodleInc (https://repl.it/team/DoodleInc)  team where you collect resources and build an empire. You can choose to be industrious, militaristicly powerful, or just farm for money.
+Doodle Wars is a game  created by the [DoodleInc](https://repl.it/team/DoodleInc)  team where you collect resources and build an empire. You can choose to be industrious, militaristicly powerful, or just farm for money.
 
 # Updates?
 There will be near constant updates to this game (as of 12/5/2020) that will bring everything from new features to bug patches.
